@@ -57,26 +57,23 @@ global.ppulsa2 = '085608625102'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842','6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'
-global.nomorown = '6285608625102','6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'
-global.nomorpart = '6282351319893','6285878313791','6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'
-global.namebot = 'PXG_ESPORTS'
-global.nameown = 'Gak perlu tau'
+global.nomorbot = '6285695349377'
+global.nomorown = '6283841403395'
+global.nomorpart = '6282351319893'
+global.namebot = 'Renji -bot'
+global.nameown = 'Abarai -Renji'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6287877173955', 'Ferdiz-Afk', true],
-  ['6283802603905', 'efa', true],
-  ['6283195893959', 'sisi', true],
-  ['6281368176386', 'dira', true],
-  ['6281575886399', 'beni', true],
+  ['6283841403395', 'Abarai Renji', true],
+  ['6282351319893', 'Muhimmah Putri', true],
+  ['6283847909854', 'Zaky Rashif', true],
+  ['6287877173955', 'Ferdiz-Afk', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
-
 
 /*============== API ==============*/
 global.APIs = { // API Prefix
@@ -118,13 +115,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 PXG_ESPORTS 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘•PXG- CHAN• ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ SKY - Chan '
+global.wm = '                「 Abarai 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Abarai ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Yui - Chan '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Sky-gans`
-global.author = '                「 PGX -ESPOTRS   あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Abarai`
+global.author = '                「 Abarai renji  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -191,8 +188,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'SXG - Chan'
-global.stickauth = `By ©SKY•Ganz`
+global.stickpack = 'Abarai -Renji'
+global.stickauth = `By ©Abarairenji`
 
 global.multiplier = 38 // The higher, The harder levelup
 
